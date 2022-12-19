@@ -5,6 +5,8 @@
 *download GIT from this site*:
 <code>[site of GIT](https://git-scm.com/downloads)</code>
 
+![image of site](instalation.jpg)
+
 __*Choose all necessary settings*__
 
 # Basic commands of GIT
